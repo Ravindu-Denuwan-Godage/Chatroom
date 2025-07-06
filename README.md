@@ -64,7 +64,7 @@ This project is ideal for:
 The app uses a **MySQL database** named `chatroom`, containing the following tables:
 
 - **`users`**
-  - Stores: first name, last name, email, password (hashed), and profile picture path
+  - Stores: first name, last name, email, password (hashed), and profile picture
 
 - **`messages`**
   - Stores: sender ID, receiver ID, message text, timestamp
