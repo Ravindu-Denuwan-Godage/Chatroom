@@ -143,5 +143,17 @@ You're welcome to explore, learn from, or expand this Chatroom project for educa
 
 If you plan to contribute, extend, or share this further, just make sure to keep the license file intact. 👍
 
+---
+
+## 📮 Contact
+
+For questions, suggestions, or feedback:
+
+- GitHub Issues: [Open here](https://github.com/Ravindu-Denuwan-Godage/Chatroom/issues)
+
+---
+
+🧠 Made with care for absolute beginners taking their first steps into web development and exploring how chat-based applications work behind the scenes.
+
 
 
