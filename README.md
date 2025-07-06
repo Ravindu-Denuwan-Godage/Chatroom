@@ -87,7 +87,6 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
 📷 _Importing the `chatroom.sql` file from the `database_to_import` folder into the `chatroom` database_
 
 <img width="1793" height="948" alt="Image" src="https://github.com/user-attachments/assets/a9a4a964-aec1-4ab3-8396-c2c2125ee155" />
-
 &nbsp;
 
 7. Launch the application by visiting: http://127.0.0.1/chatroom/
