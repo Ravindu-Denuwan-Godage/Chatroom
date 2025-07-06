@@ -82,7 +82,7 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
 3. Place the downloaded `chatroom` project folder inside: C:/xampp/htdocs/
 4. Open your browser and go to: http://127.0.0.1/phpmyadmin
 5. Create a new database named: chatroom
-6. Import the SQL file located in "database_to_import/chatroom.sql" into the `chatroom` database
+6. In the chatroom project folder, locate and import the `database_to_import/chatroom.sql` file into the `chatroom` database.
 
 📷 _Importing the `chatroom.sql` file from the `database_to_import` folder into the `chatroom` database_
 
