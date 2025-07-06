@@ -64,10 +64,10 @@ This project is ideal for:
 The app uses a **MySQL database** named `chatroom`, containing the following tables:
 
 - **`users`**
-  - Stores: first name, last name, email, password (hashed), and profile picture
+  - Stores: user ID, unique ID, first name, last name, email, encrypted password, image 
 
 - **`messages`**
-  - Stores: sender ID, receiver ID, message text, timestamp
+  - Stores: message ID, incoming message ID, outgoing message ID, message
 
 📷 _Structure of the `chatroom` database showing both tables in phpMyAdmin_
 
