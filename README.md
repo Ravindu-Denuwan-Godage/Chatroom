@@ -134,8 +134,8 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
 ## 📌 Notes
 
 - This project is intended for **educational purposes only**, especially for beginners exploring how basic web-based chat systems function.
-- This chatroom allows multiple users to log in on the same computer using different browsers or tabs. Messages between users update quickly
 - The sidebar navigation contains **placeholder buttons** with no active links — these are meant for future expansion or customization.
+- This chatroom allows multiple users to log in on the same computer using different browsers or tabs. Messages between these users update quickly, providing a smooth chatting experience without requiring complex real-time technologies.
 
 ## 📄 License
 
