@@ -134,7 +134,7 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
 ## 📌 Notes
 
 - This project is intended for **educational purposes only**, especially for beginners exploring how basic web-based chat systems function.
-- It does **not** include real-time messaging features (such as WebSockets or AJAX-based live updates).
+- This chatroom supports messaging between multiple user accounts on the same local machine. When opened in different browsers or tabs, messages update promptly, simulating near real-time communication without advanced technologies like WebSockets.
 - The sidebar navigation contains **placeholder buttons** with no active links — these are meant for future expansion or customization.
 
 ## 📄 License
