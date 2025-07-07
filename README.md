@@ -102,7 +102,7 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
 📁 javascript/
     ├── chat.js                      # Handles real-time chat functionality
     ├── login.js                     # Login form validation and logic
-    ├── pass-show-hide.js           # Toggle password visibility
+    ├── pass-show-hide.js            # Toggle password visibility
     ├── signup.js                    # Signup form logic
     └── users.js                     # User-related functionality
 
@@ -119,15 +119,15 @@ The app uses a **MySQL database** named `chatroom`, containing the following tab
     └── users.php                    # Load users list
 
 📄 boxicons.css                      # Boxicons styles
-📄 boxicons.min.css                 # Minified version of Boxicons
+📄 boxicons.min.css                  # Minified version of Boxicons
 📄 chat.php                          # Chatroom UI
 📄 header.php                        # Header layout
-📄 index.php                         # Root entry point (login page)
-📄 login.php                         # Alternative login page
+📄 index.php                         # Root entry point (signup page)
+📄 login.php                         # login page
 📄 sidebar.css                       # Sidebar styling
 📄 sidebar.html                      # Sidebar markup
 📄 style.css                         # General styles
-📄 unzipper.php                      # Unzip utility (if used)
+📄 unzipper.php                      # Unzip utility
 📄 users.php                         # Displays user list
 
 ```
